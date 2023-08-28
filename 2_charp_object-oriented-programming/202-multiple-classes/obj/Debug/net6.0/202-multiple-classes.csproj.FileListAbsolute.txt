@@ -1,0 +1,15 @@
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\obj\Debug\net6.0\202-multiple-classes.csproj.AssemblyReference.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\obj\Debug\net6.0\202-multiple-classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\obj\Debug\net6.0\202-multiple-classes.AssemblyInfoInputs.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\obj\Debug\net6.0\202-multiple-classes.AssemblyInfo.cs
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\obj\Debug\net6.0\202-multiple-classes.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\bin\Debug\net6.0\202-multiple-classes.exe
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\bin\Debug\net6.0\202-multiple-classes.deps.json
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\bin\Debug\net6.0\202-multiple-classes.runtimeconfig.json
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\bin\Debug\net6.0\202-multiple-classes.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\bin\Debug\net6.0\202-multiple-classes.pdb
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\obj\Debug\net6.0\202-multiple-classes.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\obj\Debug\net6.0\refint\202-multiple-classes.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\obj\Debug\net6.0\202-multiple-classes.pdb
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\obj\Debug\net6.0\202-multiple-classes.genruntimeconfig.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\202-multiple-classes\obj\Debug\net6.0\ref\202-multiple-classes.dll
