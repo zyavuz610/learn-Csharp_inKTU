@@ -1,0 +1,15 @@
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\obj\Debug\net6.0\200-oop-intro.csproj.AssemblyReference.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\obj\Debug\net6.0\200-oop-intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\obj\Debug\net6.0\200-oop-intro.AssemblyInfoInputs.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\obj\Debug\net6.0\200-oop-intro.AssemblyInfo.cs
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\obj\Debug\net6.0\200-oop-intro.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\bin\Debug\net6.0\200-oop-intro.exe
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\bin\Debug\net6.0\200-oop-intro.deps.json
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\bin\Debug\net6.0\200-oop-intro.runtimeconfig.json
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\bin\Debug\net6.0\200-oop-intro.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\bin\Debug\net6.0\200-oop-intro.pdb
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\obj\Debug\net6.0\200-oop-intro.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\obj\Debug\net6.0\refint\200-oop-intro.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\obj\Debug\net6.0\200-oop-intro.pdb
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\obj\Debug\net6.0\200-oop-intro.genruntimeconfig.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\200-oop-intro\obj\Debug\net6.0\ref\200-oop-intro.dll

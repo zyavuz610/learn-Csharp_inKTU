@@ -65,3 +65,33 @@ string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
 foreach (string i in cars) {
     Console.WriteLine(i);
 }
+
+//---------------------------------------------
+// örnek: sayı tahmin oyunu
+// 1-100 arasında rastgele bir sayı üretilir
+// kullanıcıdan sayı tahmini istenir
+// kullanıcı sayıyı doğru tahmin edene kadar tahmin istenir
+// kullanıcı sayıyı doğru tahmin ettiğinde kaç tahminde bildiği ekrana yazdırılır
+// kullanıcı sayıyı doğru tahmin edemediğinde sayıyı ekrana yazdırılır
+// kullanıcı sayıyı doğru tahmin edemediğinde kullanıcıya yeni bir tahmin istenir
+// kullanıcı yeni bir tahmin girdiğinde önceki tahminler ekrana yazdırılır
+
+int number = new Random().Next(1, 100);
+int guess = 0;
+int count = 0;
+while(1){
+    Console.Write("Bir sayı tahmin edin: ");
+    guess = Convert.ToInt32(Console.ReadLine());
+    count++;
+    if(guess == number){
+        Console.WriteLine("Tebrikler, {0} sayısını {1} tahminde bildiniz.", number, count); // formatlı yazdırma, daha sonra anlatılacak
+        break;
+    }
+    else if(guess < number){
+        Console.WriteLine("Daha büyük bir sayı girin.");
+    }
+    else{
+        Console.WriteLine("Daha küçük bir sayı girin.");
+    }
+}
+//--------------------------------------------- 
