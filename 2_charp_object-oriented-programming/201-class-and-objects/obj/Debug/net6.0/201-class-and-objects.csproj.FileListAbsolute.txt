@@ -1,0 +1,15 @@
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\bin\Debug\net6.0\201-class-and-objects.exe
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\bin\Debug\net6.0\201-class-and-objects.deps.json
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\bin\Debug\net6.0\201-class-and-objects.runtimeconfig.json
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\bin\Debug\net6.0\201-class-and-objects.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\bin\Debug\net6.0\201-class-and-objects.pdb
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\obj\Debug\net6.0\201-class-and-objects.csproj.AssemblyReference.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\obj\Debug\net6.0\201-class-and-objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\obj\Debug\net6.0\201-class-and-objects.AssemblyInfoInputs.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\obj\Debug\net6.0\201-class-and-objects.AssemblyInfo.cs
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\obj\Debug\net6.0\201-class-and-objects.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\obj\Debug\net6.0\201-class-and-objects.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\obj\Debug\net6.0\refint\201-class-and-objects.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\obj\Debug\net6.0\201-class-and-objects.pdb
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\obj\Debug\net6.0\201-class-and-objects.genruntimeconfig.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\201-class-and-objects\obj\Debug\net6.0\ref\201-class-and-objects.dll
