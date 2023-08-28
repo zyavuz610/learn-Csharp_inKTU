@@ -26,5 +26,5 @@ Bu dersimizde C# programlama dilinin kurulumunu ve temel kavramlarını öğrene
         
 */
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, KTU!");
 
