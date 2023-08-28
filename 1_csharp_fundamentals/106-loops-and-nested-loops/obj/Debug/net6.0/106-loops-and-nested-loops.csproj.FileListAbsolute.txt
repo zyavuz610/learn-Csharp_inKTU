@@ -1,0 +1,15 @@
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\obj\Debug\net6.0\106-loops-and-nested-loops.csproj.AssemblyReference.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\obj\Debug\net6.0\106-loops-and-nested-loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\obj\Debug\net6.0\106-loops-and-nested-loops.AssemblyInfoInputs.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\obj\Debug\net6.0\106-loops-and-nested-loops.AssemblyInfo.cs
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\obj\Debug\net6.0\106-loops-and-nested-loops.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\bin\Debug\net6.0\106-loops-and-nested-loops.exe
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\bin\Debug\net6.0\106-loops-and-nested-loops.deps.json
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\bin\Debug\net6.0\106-loops-and-nested-loops.runtimeconfig.json
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\bin\Debug\net6.0\106-loops-and-nested-loops.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\bin\Debug\net6.0\106-loops-and-nested-loops.pdb
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\obj\Debug\net6.0\106-loops-and-nested-loops.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\obj\Debug\net6.0\refint\106-loops-and-nested-loops.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\obj\Debug\net6.0\106-loops-and-nested-loops.pdb
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\obj\Debug\net6.0\106-loops-and-nested-loops.genruntimeconfig.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\106-loops-and-nested-loops\obj\Debug\net6.0\ref\106-loops-and-nested-loops.dll
