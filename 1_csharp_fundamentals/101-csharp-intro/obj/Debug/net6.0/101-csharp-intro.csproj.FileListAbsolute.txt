@@ -1,0 +1,15 @@
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\bin\Debug\net6.0\101-csharp-intro.exe
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\bin\Debug\net6.0\101-csharp-intro.deps.json
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\bin\Debug\net6.0\101-csharp-intro.runtimeconfig.json
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\bin\Debug\net6.0\101-csharp-intro.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\bin\Debug\net6.0\101-csharp-intro.pdb
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\obj\Debug\net6.0\101-csharp-intro.csproj.AssemblyReference.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\obj\Debug\net6.0\101-csharp-intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\obj\Debug\net6.0\101-csharp-intro.AssemblyInfoInputs.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\obj\Debug\net6.0\101-csharp-intro.AssemblyInfo.cs
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\obj\Debug\net6.0\101-csharp-intro.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\obj\Debug\net6.0\101-csharp-intro.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\obj\Debug\net6.0\refint\101-csharp-intro.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\obj\Debug\net6.0\101-csharp-intro.pdb
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\obj\Debug\net6.0\101-csharp-intro.genruntimeconfig.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\1_csharp_fundamentals\101-csharp-intro\obj\Debug\net6.0\ref\101-csharp-intro.dll
