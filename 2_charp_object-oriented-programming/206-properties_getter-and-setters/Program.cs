@@ -41,4 +41,30 @@ Encapsulation Ne için Gerekli?
     daha iyi bir güvenlik sağlar, 
     daha iyi bir kontrol sağlar,
         eğer çok kişinin çalıştığı bir projede çalışıyorsanız, bu özellikler çok önemlidir
+
+örnek proje
+    class FutbolTakimi
+    fields:
+        isim
+        kisaIsim
+        kurulusYili
+        oynadigiLig
+        oynananMacSayisi
+        galibiyetSayisi
+        beraberlikSayisi
+        maglubiyetSayisi
+        attigiGolSayisi
+        yedigiGolSayisi
+        puan
+    methods:
+        takimBilgileriYazdir
+        takimPuaniniHesapla
+        takimPuaniniYazdir
+        takimMacSayisiniArttir
+        takimGalibiyetSayisiniArttir
+        takimBeraberlikSayisiniArttir
+        takimMaglubiyetSayisiniArttir
+        takimAttigiGolSayisiniArttir
+        takimYedigiGolSayisiniArttir
+
 */

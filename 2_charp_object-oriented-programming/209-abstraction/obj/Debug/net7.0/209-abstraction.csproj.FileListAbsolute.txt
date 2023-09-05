@@ -1,0 +1,15 @@
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\bin\Debug\net7.0\209-abstraction.exe
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\bin\Debug\net7.0\209-abstraction.deps.json
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\bin\Debug\net7.0\209-abstraction.runtimeconfig.json
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\bin\Debug\net7.0\209-abstraction.dll
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\bin\Debug\net7.0\209-abstraction.pdb
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\obj\Debug\net7.0\209-abstraction.csproj.AssemblyReference.cache
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\obj\Debug\net7.0\209-abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\obj\Debug\net7.0\209-abstraction.AssemblyInfoInputs.cache
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\obj\Debug\net7.0\209-abstraction.AssemblyInfo.cs
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\obj\Debug\net7.0\209-abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\obj\Debug\net7.0\209-abstraction.dll
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\obj\Debug\net7.0\refint\209-abstraction.dll
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\obj\Debug\net7.0\209-abstraction.pdb
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\obj\Debug\net7.0\209-abstraction.genruntimeconfig.cache
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\209-abstraction\obj\Debug\net7.0\ref\209-abstraction.dll

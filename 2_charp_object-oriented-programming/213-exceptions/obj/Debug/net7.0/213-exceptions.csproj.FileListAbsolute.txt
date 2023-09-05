@@ -1,0 +1,15 @@
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\obj\Debug\net7.0\213-exceptions.csproj.AssemblyReference.cache
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\obj\Debug\net7.0\213-exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\obj\Debug\net7.0\213-exceptions.AssemblyInfoInputs.cache
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\obj\Debug\net7.0\213-exceptions.AssemblyInfo.cs
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\obj\Debug\net7.0\213-exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\bin\Debug\net7.0\213-exceptions.exe
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\bin\Debug\net7.0\213-exceptions.deps.json
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\bin\Debug\net7.0\213-exceptions.runtimeconfig.json
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\bin\Debug\net7.0\213-exceptions.dll
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\bin\Debug\net7.0\213-exceptions.pdb
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\obj\Debug\net7.0\213-exceptions.dll
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\obj\Debug\net7.0\refint\213-exceptions.dll
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\obj\Debug\net7.0\213-exceptions.pdb
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\obj\Debug\net7.0\213-exceptions.genruntimeconfig.cache
+C:\Users\Fujitsu\OneDrive - Karadeniz Teknik University\Belgeler\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\213-exceptions\obj\Debug\net7.0\ref\213-exceptions.dll
