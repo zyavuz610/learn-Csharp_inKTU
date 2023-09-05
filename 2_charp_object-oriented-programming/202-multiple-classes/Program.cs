@@ -21,7 +21,7 @@ public class Util {
 }
 
 
- public class Program {
+public class Program {
 
   static void Main(string[] args) {
     MyClass mc = new MyClass();
@@ -42,7 +42,7 @@ public class Util {
     Console.WriteLine(Ford.model);
     Console.WriteLine(Opel.model);
 
-//------------------------------------------------------------
+   //------------------------------------------------------------
     UtilTest ut = new UtilTest();
     ut.func();
   }

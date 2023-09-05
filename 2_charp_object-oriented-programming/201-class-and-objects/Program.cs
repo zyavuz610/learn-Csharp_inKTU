@@ -2,14 +2,10 @@
 using System;
 using System;
 
-namespace HelloWorld
-{
-  class Car 
-  {
+namespace HelloWorld {
+  class Car   {
     string color = "red";
-  
-    static void Main(string[] args)
-    {
+    static void Main(string[] args)     {
       Car myObj = new Car();
       Console.WriteLine(myObj.color);
 
@@ -21,10 +17,8 @@ namespace HelloWorld
     }
   }
   /*
-  class Program
-  {
-    static void Main(string[] args)
-    {
+  class Program   {
+    static void Main(string[] args)     {
       Console.WriteLine("Hello World!");    
     }
   }
@@ -32,25 +26,20 @@ namespace HelloWorld
 }
 
 /*
-Example explained
-Line 1: using System means that we can use classes from the System namespace.
+Açıklama
+Satır 1: using System, System isim uzayından sınıfları kullanmamızı sağlar.
+Satır 2: Boş bir satır. C# boşlukları görmezden gelir. Ancak birden fazla satır kodu daha okunabilir hale getirir.
+Satır 3: namespace, kodunuzu düzenlemek için kullanılır ve sınıflar ve diğer isim uzayları için bir konteyner görevi görür.
+Satır 4: Süslü parantezler {} bir kod bloğunun başlangıcını ve sonunu işaretler.
+Satır 5: class, programınıza işlevsellik getiren veri ve yöntemlerin bir konteyneridir. C# 'da çalışan her kod satırı bir sınıf içinde olmalıdır. Örneğimizde sınıfı Program olarak adlandırdık.
 
-Line 2: A blank line. C# ignores white space. However, multiple lines makes the code more readable.
+using System satırını atladığınızda, metin yazdırmak / çıktı almak için System.Console.WriteLine() yazmanız gerekir.
 
-Line 3: namespace is used to organize your code, and it is a container for classes and other namespaces.
+Satır 7: C# programında her zaman görünen başka bir şey de Main yöntemidir. Süslü parantezlerinin {} içindeki herhangi bir kod yürütülür. Main'in önündeki ve arkasındaki anahtar kelimeleri anlamanız gerekmez. Bu öğreticiyi okurken onları azar azar öğreneceksiniz.
 
-Line 4: The curly braces {} marks the beginning and the end of a block of code.
+Satır 9: Console, metin yazdırmak / çıktı almak için kullanılan bir System isim uzayı sınıfıdır. Örneğimizde "Merhaba Dünya!" Çıktısını / çıktısını verecektir.
 
-Line 5: class is a container for data and methods, which brings functionality to your program. Every line of code that runs in C# must be inside a class. In our example, we named the class Program.
-
-Don't worry if you don't understand how using System, namespace and class works. Just think of it as something that (almost) always appears in your program, and that you will learn more about them in a later chapter.
-
-Line 7: Another thing that always appear in a C# program, is the Main method. Any code inside its curly brackets {} will be executed. You don't have to understand the keywords before and after Main. You will get to know them bit by bit while reading this tutorial.
-
-Line 9: Console is a class of the System namespace, which has a WriteLine() method that is used to output/print text. In our example it will output "Hello World!".
-
-If you omit the using System line, you would have to write System.Console.WriteLine() to print/output text.
-
-Note: Every C# statement ends with a semicolon ;.
+Not: Her C# ifadesi noktalı virgül ; ile biter.
 
 */
+
