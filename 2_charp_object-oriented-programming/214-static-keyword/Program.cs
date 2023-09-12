@@ -44,4 +44,14 @@ StaticMethod sm = new StaticMethod();
 sm.Print(); // kaynak koda bakınız, StaticMethod.cs
 StaticMethod.Print2(); // kaynak koda bakınız, StaticMethod.cs
 //StaticMethod.Print(); // hata verir, kaynak koda bakınız, StaticMethod.cs
-sm.Print2(); // hata verir, kaynak koda bakınız, StaticMethod.cs
+//sm.Print2(); // hata verir, kaynak koda bakınız, StaticMethod.cs
+
+//--------------------------------------------------------------------------
+/*
+static constructor
+    static constructor parametre almaz. tek bir static constructor oluşturulabilir.
+    static constructorlar static olmayan constructorlara göre daha önceliklidir.
+    static constructor sınıf içerisinde static olmayan bir özellik veya metot çağrılmadan önce çalışır.
+    static constructor çalıştırıldığında static olmayan constructor çalıştırılmaz.
+*/
+StaticConstructor sc = new StaticConstructor(2);
