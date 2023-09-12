@@ -1,0 +1,15 @@
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\bin\Debug\net6.0\214-static-keyword.exe
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\bin\Debug\net6.0\214-static-keyword.deps.json
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\bin\Debug\net6.0\214-static-keyword.runtimeconfig.json
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\bin\Debug\net6.0\214-static-keyword.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\bin\Debug\net6.0\214-static-keyword.pdb
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\obj\Debug\net6.0\214-static-keyword.csproj.AssemblyReference.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\obj\Debug\net6.0\214-static-keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\obj\Debug\net6.0\214-static-keyword.AssemblyInfoInputs.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\obj\Debug\net6.0\214-static-keyword.AssemblyInfo.cs
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\obj\Debug\net6.0\214-static-keyword.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\obj\Debug\net6.0\214-static-keyword.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\obj\Debug\net6.0\refint\214-static-keyword.dll
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\obj\Debug\net6.0\214-static-keyword.pdb
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\obj\Debug\net6.0\214-static-keyword.genruntimeconfig.cache
+C:\Users\zafer\Documents\GitHub\learn-Csharp_inKTU\2_charp_object-oriented-programming\214-static-keyword\obj\Debug\net6.0\ref\214-static-keyword.dll
