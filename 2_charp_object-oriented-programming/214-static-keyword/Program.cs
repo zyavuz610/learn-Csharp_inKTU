@@ -54,4 +54,4 @@ static constructor
     static constructor sınıf içerisinde static olmayan bir özellik veya metot çağrılmadan önce çalışır.
     static constructor çalıştırıldığında static olmayan constructor çalıştırılmaz.
 */
-StaticConstructor sc = new StaticConstructor(2);
+StaticConstructor sc = new StaticConstructor(); // kaynak koda bakınız, StaticConstructor.cs
