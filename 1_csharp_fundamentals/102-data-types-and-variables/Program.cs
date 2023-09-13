@@ -114,4 +114,18 @@ Console.WriteLine(Convert.ToDouble(myInt));    // convert int to double
 Console.WriteLine(Convert.ToInt32(myDouble));  // convert double to int
 Console.WriteLine(Convert.ToString(myBool));   // convert bool to string
 
+/*
+Düzgün ve Hatalı Değişken İsimlendirmelerine Örnekler
+    int 1stNumber = 10; // hatalı
+    int firstNumber = 10; // düzgün
+    int first_number = 10; // düzgün
+    int first-number = 10; // hatalı
+    int firstNumber1 = 10; // düzgün
+    int _firstNumber = 10; // düzgün
+    int firstNumber_ = 10; // düzgün
+    int firstNumber_1 = 10; // düzgün
+    int firstNumber$ = 10; // hatalı
 
+büyük küçük harf ayrımı vardır
+    firstNumber ve FirstNumber farklı değişkenlerdir.
+*/
