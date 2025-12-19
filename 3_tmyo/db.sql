@@ -2,8 +2,9 @@ IF NOT EXISTS (SELECT * FROM sys.databases WHERE name = 'visual')
 BEGIN
     EXEC('CREATE DATABASE [visual]')
 END
-
-USE visual;
+GO
+USE [visual];
+GO
 
 IF NOT EXISTS (SELECT * FROM sys.tables WHERE name = 'login')
 BEGIN
